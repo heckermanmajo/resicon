@@ -1,7 +1,5 @@
 
 
-
-
 ### ASSERT
 Assert that everything is always correct.
 Even if it feels dumb.

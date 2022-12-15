@@ -12,7 +12,7 @@ use core\Simulation;
 use core\SimulationDataClass;
 
 # todo: add capital and ownership
-
+# todo: add the generation of the human: boomer, x, y, z, alpha, beta, gamma, delta, epsilon, zeta, eta, theta, iota, kappa, lambda, mu, nu, xi, omicron, pi, rho, sigma, tau, upsilon, phi, chi, psi, omega
 class Human extends SimulationDataClass {
   /** @var array[static] */
   protected static array $instances = [];

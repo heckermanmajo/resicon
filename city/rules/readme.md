@@ -8,3 +8,7 @@ Low that forbids
 Low that enforces
 Taxes 
 Punishment
+
+Bureaucracy:
+- Rules can also be rules for the bureaucracy of a specific organisation
+- 
